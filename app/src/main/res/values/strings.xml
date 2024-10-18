@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="idk" translatable="false">Idk Something Happened</string>
+    <string name="message_param" translatable="false">%1 call</string>
+    <string name="menu_option_1" translatable="false">Item</string>
+    <string name="menu_option_2" translatable="false">Item2</string>
+</resources>
